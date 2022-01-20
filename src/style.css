@@ -47,7 +47,7 @@ button:active {
 /* HTML/CSS visually disabling buttons */
 button:disabled {
   cursor: default;
-  filter: brightness(30%);
+  filter: brightness(80%);
 }
 
 /* Media queries */
